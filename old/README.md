@@ -5,6 +5,8 @@ Email: ymatsui@med.nagoya-u.ac.jp</br>
 
 #Package information:
 Dependency: MASS</br>
+
+This directory is old version of D3M.
 This package consists of four files.</br>
 #1. sample.txt: </br>
 Simulation dataset</br>
